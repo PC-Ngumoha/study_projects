@@ -17,8 +17,8 @@ This repository is a collection of projects that I have completed as part of my 
 
 ## Projects
 
-1. **Project 1**: Description of project 1.
-2. **Project 2**: Description of project 2.
+1. **Qwik Tasks**: A simple todo-list web application built using QwikJS and TailwindCSS. Meant to help me understand practical use of QwikJS in building highly efficient and rapidly loading web applications.
+2. **Hello Rust**: Hello World project for the Rust programming language. Aimed at helping me introduce myself to the basic programming constructs which are available in the Rust programming language.
 3. **Project 3**: Description of project 3.
 
 ## Installation
