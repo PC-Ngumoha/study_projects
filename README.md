@@ -26,7 +26,7 @@ This repository is a collection of projects that I have completed as part of my 
 To get started with any of the projects, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/study_projects.git
+git clone https://github.com/PC-Ngumoha/study_projects.git
 ```
 
 Navigate to the project directory:

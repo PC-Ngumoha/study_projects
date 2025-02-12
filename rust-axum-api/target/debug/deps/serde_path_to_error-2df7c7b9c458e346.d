@@ -1,0 +1,9 @@
+/home/prince_elden/study_projects/rust-axum-api/target/debug/deps/libserde_path_to_error-2df7c7b9c458e346.rmeta: /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/lib.rs /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/de.rs /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/path.rs /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/ser.rs /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/wrap.rs
+
+/home/prince_elden/study_projects/rust-axum-api/target/debug/deps/serde_path_to_error-2df7c7b9c458e346.d: /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/lib.rs /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/de.rs /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/path.rs /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/ser.rs /home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/wrap.rs
+
+/home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/lib.rs:
+/home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/de.rs:
+/home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/path.rs:
+/home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/ser.rs:
+/home/prince_elden/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_path_to_error-0.1.16/src/wrap.rs:
