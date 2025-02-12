@@ -63,13 +63,27 @@ fn main() {
     // println!("Is 10 even? {}", is_even(10));
     // println!("Is 11 even? {}", is_even(11));
 
-    // CONTROL FLOW
-    check_number(10);
-    check_number(11);
+    // // CONTROL FLOW
+    // check_number(10);
+    // check_number(11);
 
-    count_down(10);
+    // count_down(10);
 
-    day_of_week(3);
+    // day_of_week(3);
+
+
+    // // OWNERSHIP
+    // let s = String::from("Hello");
+    // take_ownership(s);
+    // // println!("{}", s);
+
+    // let a = String::from("Chukwuemeka");
+    // println!("The length of the string is {}", calculate_length(&a));
+
+    // let mut b = String::from("Hello");
+    // println!("Before appending: {}", b);
+    // append_world(&mut b);
+    // println!("After appending: {}", b);
 }
 
 // FUNCTION: say_hello - prints a greeting message
@@ -113,4 +127,16 @@ fn day_of_week(day: i32) {
         7 => println!("Sunday"),
         _ => println!("Invalid day")
     }
+}
+
+fn take_ownership(s: String) {
+    println!("{}", s);
+}
+
+fn calculate_length(s: &String) -> u64 {
+    s.len() as u64
+}
+
+fn append_world(s: &mut String) {
+    s.push_str(" World");
 }
